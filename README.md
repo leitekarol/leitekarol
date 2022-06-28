@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--> <a href="https://www.linkedin.com/in/linna2vezes">LinkedIn</a> </br>
+<!-- -> <a href="https://www.linkedin.com/in/linna2vezes">LinkedIn</a> </br>
 ->  <a href="https://www.behance.net/linna2vezes"> Design Projects at my Behance Page </a></br>
 ->  <a mailto="https://www.behance.net/linna2vezes">linna2vezes@gmail.com </a></br>
 -> <a href="https://linna2vezes.github.io/"> My GitHub.io </a>
+ -->
