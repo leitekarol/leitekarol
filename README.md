@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 **leitekarol/leitekarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <!-- -> <a href="https://www.linkedin.com/in/linna2vezes">LinkedIn</a> </br>
 ->  <a href="https://www.behance.net/linna2vezes"> Design Projects at my Behance Page </a></br>
