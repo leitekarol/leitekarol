@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **leitekarol/leitekarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+ <a href="https://www.linkedin.com/in/linna2vezes%22%3ELinkedIn</a> </br> ->  <a href="https://www.behance.net/linna2vezes%22%3E Design Projects at my Behance Page </a></br> ->  <a mailto="https://www.behance.net/linna2vezes%22%3Elinna2vezes@gmail.com </a></br> -> <a href="https://linna2vezes.github.io/%22%3E My GitHub.io </a>
